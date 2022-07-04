@@ -11,8 +11,8 @@
 
 ---- 
 ### I'm a web developer in progress 
-- 🌱 I’m currently learning backend development, on the way to become a full-stack developer
-- ⚡ Fun fact: I love to take pictures and create digital drawings.
+- 🌱 I’m currently learning in the following web application such as PHP, HTML and CSS. 
+- ⚡ Fun fact: Riding on my motorcycle anywhere where there are beautiful places.
 
 ### Languages and Tools:
 
