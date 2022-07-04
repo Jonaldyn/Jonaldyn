@@ -31,7 +31,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 
 <br />
-
+<hr>
 [youtube]: https://www.youtube.com/channel/UCiioiqZigffPuWBXRHetoGg/videos?view_as=subscriber
 [instagram]: https://www.instagram.com/especial_photo/
 [linkedin]: https://www.linkedin.com/in/jonaldyn-anahaw/
