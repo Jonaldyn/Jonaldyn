@@ -17,4 +17,4 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/jonaldyn-anahaw/
+[linkedin]: https://www.linkedin.com/in/jonaldyn-anahaw-528a91126/
