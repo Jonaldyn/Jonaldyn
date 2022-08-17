@@ -1,4 +1,4 @@
-### Hello World!, My name is Jonaldyn Anahaw, <br> Graduate of Bachelor in Industrial Technology course and taking another course of Bs in Computer Engineering with major elective in Web Application Development <img width="20" height="20" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif">
+### Hello World!, My name is Jonaldyn Anahaw, <br> Graduate of Bachelor in Industrial Technology and taking another course of Bs in Computer Engineering with major elective in Web Application Development <img width="20" height="20" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif">
 
 [<img align="left" alt="ilyesedina | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <a target="_blank" href="https://fb.com/jonaldyn.anahaw"><img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
@@ -7,7 +7,7 @@
 <br />
 
 ---- 
-### I'm a web developer in progress 
+### I'm aspiring web developer in progress 
 - 🌱 I’m currently learning in the following web application such as PHP, HTML and CSS. 
 - ⚡ Fun fact: Riding on my motorcycle anywhere where there are beautiful places.
 
