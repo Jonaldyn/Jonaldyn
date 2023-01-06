@@ -2,8 +2,8 @@
 My name is Jonaldyn Anahaw, 
 I have a knowledge in the Web Application Development.
 
-<a href="[https://fb.com/jonaldyn.anahaw](https://www.linkedin.com/in/jonaldyn-anahaw-528a91126/)"><img align="left" alt="JonaldynAnahaw | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://fb.com/jonaldyn.anahaw"><img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="[https://fb.com/jonaldyn.anahaw](https://www.linkedin.com/in/jonaldyn-anahaw-528a91126/)"><img align="left" alt="JonaldynAnahaw | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://fb.com/jonaldyn.anahaw"><img align="left" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br/>
 ---- 
