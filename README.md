@@ -6,6 +6,7 @@ I have a knowledge in the Web Application Development.
 <a href="https://fb.com/jonaldyn.anahaw"><img align="left" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br/>
+
  ----
 ### I'm aspiring Web developer. <br>
 - 🌱 I’m currently have knowledge in the following Web application such as PHP, HTML and CSS. <br>
