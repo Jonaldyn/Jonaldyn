@@ -1,6 +1,4 @@
-# Hello World!!!  <img width="20" height="20" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif"> 
-
-### My name is Jonaldyn Anahaw, 
+# Hello World! My name is Jonaldyn Anahaw  <img width="20" height="20" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif"> 
 I have a knowledge in the Web Application Development.
 
 <a href="[https://fb.com/jonaldyn.anahaw](https://www.linkedin.com/in/jonaldyn-anahaw-528a91126/)"><img align="left" alt="JonaldynAnahaw | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
