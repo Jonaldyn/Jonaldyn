@@ -1,4 +1,5 @@
 # Hello World!!!  <img width="20" height="20" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif"> 
+
 ### My name is Jonaldyn Anahaw, 
 I have a knowledge in the Web Application Development.
 
@@ -9,6 +10,7 @@ I have a knowledge in the Web Application Development.
 
  -----
 # I'm aspiring Web developer. <br>
+
 - 🌱 I’m currently have knowledge in the following Web application such as PHP, HTML and CSS. <br>
 - ⚡ Fun fact: Riding on my motorcycle anywhere where there are beautiful places.
 
