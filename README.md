@@ -1,4 +1,4 @@
-## Hello World, My name is Jonaldyn  <img width="40" height="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif"> 
+### Hello World, My name is Jonaldyn  <img width="40" height="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif"> 
 
 <a href="[https://fb.com/jonaldyn.anahaw](https://www.linkedin.com/in/jonaldyn-anahaw-528a91126/)"><img align="left" alt="JonaldynAnahaw | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://fb.com/jonaldyn.anahaw"><img align="left" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
@@ -6,7 +6,7 @@
 <br/>
 
  -----
-## I'm aspiring Web developer. <br>
+### I'm aspiring Web developer. <br>
 
 - 🌱 I’m currently have knowledge in the following Web application such as PHP, HTML and CSS. <br>
 - ⚡ Fun fact: Riding on my motorcycle anywhere where there are beautiful places.
