@@ -6,9 +6,10 @@
 <br/>
 
  -----
-### I'm aspiring Web developer. <br>
+### I'm an aspiring Web developer. <br>
 
-- 🌱 I’m currently have knowledge in the following Web application such as PHP, HTML and CSS. <br>
+- 🌱 I currently have knowledge in the following programming language such as PHP, JavaScript, and SQL. <br>
+- 🌱 In addition are HTML5, CSS3, MySQL work bench and Bootstrap. <br>
 - ⚡ Fun fact: Riding on my motorcycle anywhere where there are beautiful places.
 
 ### Languages and Tools:
