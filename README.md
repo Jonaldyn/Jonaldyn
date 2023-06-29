@@ -8,7 +8,7 @@
  -----
 ### I'm an aspiring Web developer. <br>
 
-- 🌱 I currently have knowledge in the following programming language such as PHP, JavaScript, and SQL. <br>
+- 🌱 I have knowledge in the following programming languages such as PHP, JavaScript, and SQL. <br>
 - 🌱 In addition are HTML5, CSS3, MySQL work bench and Bootstrap. <br>
 - ⚡ Fun fact: Riding on my motorcycle anywhere where there are beautiful places.
 
