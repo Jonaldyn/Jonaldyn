@@ -9,7 +9,8 @@
 ### I'm an aspiring Web developer. <br>
 
 - 🌱 I have knowledge in the following programming languages such as PHP, JavaScript, and SQL. <br>
-- 🌱 In addition are HTML5, CSS3, MySQL work bench and Bootstrap. <br>
+- 🌱 In addition are HTML5, CSS3, XAMPP(phpmyAdmin), MySQL workbench and Bootstrap. <br>
+- 🌱 I have sample of my work in repository titled Simple_project_and_coding and E-commerce-Web-Layout-Design. 
 - ⚡ Fun fact: Riding on my motorcycle anywhere where there are beautiful places.
 
 ### Languages and Tools:
