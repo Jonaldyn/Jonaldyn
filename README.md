@@ -1,4 +1,4 @@
-### Hello World <img width="40" height="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif">, My name is JOJO 
+### Hello World <img width="40" height="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif">, My name is Jo Jo 
 
 <a href="https://www.linkedin.com/in/jonaldyn-anahaw-528a91126/"><img align="left" alt="JonaldynAnahaw | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://fb.com/jonaldyn.anahaw"><img align="left" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
